@@ -4,7 +4,7 @@
 
 `2190787`
 
-#### Linguagens de programação conhecidas:
+#### Known programming languages:
 
 * C
 * Javascript
