@@ -1,10 +1,11 @@
 
 # Menu
 
-### PT
-* [Home](/)
-* [Sobre](sobre.md)
+#### [Home](/)
 
+### PT
+* [Curriculo](cv.md)
+* [Sobre](sobre.md)
 ### EN
-* [Home](/en/)
-* [About](/en/about.md)
+* [Curriculum](/docs/en/cv.md)
+* [About](/docs/en/about.md)
